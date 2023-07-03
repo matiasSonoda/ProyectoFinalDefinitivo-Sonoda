@@ -1,0 +1,48 @@
+[
+    {
+        "id":1,
+        "imagen":"../img/Curso programacion inicial.jpg",
+        "titulo":"Programacion inicial",
+        "profesor":"Sonoda Matias",
+        "precio":300,
+        "descuento":50
+    },
+    {
+        "id":2,
+        "imagen":"../img/Curso programacion avanzada.jpg", "titulo":"Programacion Avanzada", 
+        "profesor":"Sonoda Matias",
+        "precio":450,
+        "descuento":70
+    },
+    {
+        "id":3,
+        "imagen":"../img/curso diseño grafico.jpg", 
+        "titulo":"Diseño Grafico", 
+        "profesor":"Sonoda Matias",
+        "precio":300,
+        "descuento":30
+    },
+    {
+        "id":4,
+        "imagen":"../img/Curso Marketing.jpg", 
+        "titulo":"Marketing", 
+        "profesor":"Sonoda Matias",
+        "precio":600,
+        "descuento":40
+    },
+    {
+        "id":5,
+        "imagen":"../img/Curso oratoria.jpg", 
+        "titulo":"Oratoria", 
+        "profesor":"Sonoda Matias",
+        "precio":300,
+        "descuento":10},
+    {
+        "id":6,
+        "imagen":"../img/cursoContador.jpg", 
+        "titulo":"Contador", 
+        "profesor":"Sonoda Matias",
+        "precio":350,
+        "descuento":60
+    }
+]
